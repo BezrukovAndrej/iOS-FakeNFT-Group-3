@@ -1,9 +1,12 @@
 # ТЗ мобильного приложения FakeNFT ( Командная работа ) 
 
-# Скринкаст 
+## Скринкаст 
 - Экрана Каталог ---> https://disk.yandex.ru/i/pm1kP3FEmuFszw
 - Экрана Корзина ---> https://disk.yandex.ru/i/eyX37tH1hWW8NA
 - Экрана Профиль ---> https://disk.yandex.ru/i/luLaUd4oiSV5oQ
+
+## Скриншот
+<a href="https://ibb.co/8P3HbcC"><img src="https://i.ibb.co/bNhkFJ0/Nft.png" alt="Nft" border="0"></a>
 
 # Ссылки
 
@@ -212,4 +215,3 @@
 - экран «Каталог» — по количеству NFT;
 - экран «Корзина» — по названию;
 - экран «Мои NFT» — по рейтингу;
-- экран «Статистика» — по рейтингу.
