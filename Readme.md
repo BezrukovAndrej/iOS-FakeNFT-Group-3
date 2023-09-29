@@ -1,4 +1,9 @@
-# ТЗ мобильного приложения FakeNFT
+# ТЗ мобильного приложения FakeNFT ( Командная работа ) 
+
+# Скринкаст 
+Экрана Каталог ---> https://disk.yandex.ru/i/pm1kP3FEmuFszw
+Экрана Корзина ---> https://disk.yandex.ru/i/eyX37tH1hWW8NA
+Экрана Профиль ---> https://disk.yandex.ru/i/luLaUd4oiSV5oQ
 
 # Ссылки
 
